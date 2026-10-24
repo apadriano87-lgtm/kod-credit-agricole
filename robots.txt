@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apadriano87-lgtm.github.io/kod-credit-agricole/sitemap.xml
